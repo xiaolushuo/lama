@@ -1,3 +1,4 @@
+GitHub 上一个比较有意思的开源库：LaMa (https://github.com/saic-mdal/lama)，由莫斯科三星人工智能中心开源，可快速进行图像修复、指定对象移除等操作
 # 🦙 LaMa: Resolution-robust Large Mask Inpainting with Fourier Convolutions
 
 Official implementation by Samsung Research
